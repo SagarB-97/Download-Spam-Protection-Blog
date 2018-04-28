@@ -8,10 +8,10 @@ excerpt: A post about the Web application built as a test case for the project
 
 A Web Application that serves as a test case for the project is hosted at : [link]
 
-### What the application does?
+#### What the application does?
 
-### How to launch the application?
+#### How to launch the application?
 
-### How is the application built?
+#### How is the application built?
 
-### Important routes
+#### Important routes

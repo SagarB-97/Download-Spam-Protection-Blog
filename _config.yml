@@ -19,9 +19,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   A Blog for Mozilla's Google Summer of Code project
 baseurl: "Download-Spam-Protection-in-Firefox" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  SagarB-97
-show_excerpts: true
 
+show_excerpts: true
+author: Sagar Bharadwaj
+
+github_username:  SagarB-97
+linkedin_username: sagar-bharadwaj-k-s
 # Build settings
 markdown: kramdown
 theme: minima
