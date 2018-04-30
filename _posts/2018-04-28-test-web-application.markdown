@@ -54,3 +54,7 @@ This will automatically fetch all required dependencies by referring to `package
 ```
 npm start
 ```
+
+### Application Screenshot
+
+![screenshot]({{ "/assets/testapp_screenshot.png" | absolute_url}})
