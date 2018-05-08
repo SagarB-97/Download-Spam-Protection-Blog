@@ -13,12 +13,14 @@ For a more detailed description of the project, visit the [Introduction]({% post
 - Student : **Sagar Bharadwaj** (:sagarb_97)
 - Mentor : **Nihanth Subramanya** (:nhnt11)
 - Reporter : **Johann** (:johannh)
-- Realted Meta Bug : [Bug 1306334](https://bugzilla.mozilla.org/show_bug.cgi?id=1306334) on Bugzilla
+- Related Meta Bug : [Bug 1306334](https://bugzilla.mozilla.org/show_bug.cgi?id=1306334) on Bugzilla
 
 
 ### Important Links
 
 Project abstract : [GSoC Website](https://summerofcode.withgoogle.com/projects/#4877582533656576)
+
+Project Proposal : [Proposal]({{ "/assets/proposal.pdf" | absolute_url }})
 
 Meta bug : [Bug 1306334](https://bugzilla.mozilla.org/show_bug.cgi?id=1306334)
 
