@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Daily Update : Cleaning test case"
+title:  "Update : Cleaning test case"
 date:   2018-05-15 18:00:12 +0530
 categories: blogpost
 excerpt: Cleaned code and removed unnecessary dependencies in the Test Web Application

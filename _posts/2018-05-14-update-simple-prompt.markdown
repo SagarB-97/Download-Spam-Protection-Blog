@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Daily Update : Messing around. User prompt displayed for second download"
+title:  "Update : Messing around. User prompt displayed for second download"
 date:   2018-05-14 18:00:12 +0530
 categories: blogpost
 excerpt: There was an attempt - To display user prompt before the second download of the session
