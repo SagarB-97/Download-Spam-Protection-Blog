@@ -3,7 +3,7 @@ layout: post
 title:  "Listening vs Telling"
 date:   2018-05-15 18:00:12 +0530
 categories: blogpost
-excerpt: Decision on whether our state machine should 'listen' for downloads or if we should explicitly 'tell' out state machine about download events
+excerpt: Decision on whether our state machine should 'listen' for downloads or if we should explicitly 'tell' our state machine about download events
 ---
 
 Today, me and Nihanth had a discussion on which is the best model to proceed with. The `push` vs the `pull` model. 
