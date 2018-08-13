@@ -4,6 +4,7 @@ title:  "A Summary my work"
 date:   2018-08-10 18:00:12 +0530
 categories: blogpost
 excerpt: A summary of my work during Google Summer of Code. Also, what's left!
+permalink: /gsoc-summary/
 ---
 
 This is has been, by far, my most productive summer. Had lots of fun working with the Mozilla community. Piqued myself with intriguing details of browser engineering. [Mozilla Blog](https://blog.mozilla.org/) and [Mozilla Hacks](https://hacks.mozilla.org/) never failed to keep me entertained :D
@@ -18,10 +19,13 @@ Now it's all coming to an end. Not my efforts to stay engaged with the Mozilla c
 
 ### What has been done?
 
+0. A web application that can serve as a test case for initiating multiple automatic and user inititated downloads.
 1. XPCOM interface for the backend to invoke the front end download count mecahnism.
 2. Download count mechanism in the front end to count the number of downloads associated with its origin
 3. Associate a download with its invoking browser element and display a prompt in that browser element.
 4. Mechanism to queue up downloads triggered while the prompt is being shown so that they can be allowed or blocked in the *future* once the user takes an action
+
+Test Web Application : [GitHub Repo](https://github.com/SagarB-97/Download-Spam-Protection-in-Firefox)
 
 The bug that I worked on : [Bug 1463527](https://bugzilla.mozilla.org/show_bug.cgi?id=1463527)
 
