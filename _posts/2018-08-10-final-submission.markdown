@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Summary my work"
-date:   2018-06-11 18:00:12 +0530
+date:   2018-08-10 18:00:12 +0530
 categories: blogpost
 excerpt: A summary of my work during Google Summer of Code. Also, what's left!
 ---
